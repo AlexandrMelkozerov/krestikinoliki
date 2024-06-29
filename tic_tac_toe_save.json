@@ -1,0 +1,1 @@
+{"board": [[" ", "O", " "], ["X", " ", " "], ["O", "X", " "]], "current_player": "X", "score": {"X": 0, "O": 0}, "single_player": true, "difficulty": "Hard", "history": [["X", 2, 1], ["O", 0, 1], ["X", 1, 0], ["O", 2, 0]]}
